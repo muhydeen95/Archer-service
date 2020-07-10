@@ -175,41 +175,34 @@ nav {
 
 /**********Footer**********/
 
-      footer {
-        color: var(--primary-color);
-      }
-
-      .list-unstyled li a {
-        color: var(--primary-color);
-        font-size: 0.9em;
-        line-height: 20px;
-      }
-
-      .footer-copyright {
-        border-top: 0.5px solid rgba(0, 0, 0, 0.2);
-        font-size: 0.9em;
-        width: 100%;
-      }
-
-@media screen and (max-width: 767px) {
-    .row-con {
-    
-        
-    
+footer {
+    color: var(--primary-color);
 }
+
+.list-unstyled li a {
+    color: var(--primary-color);
+    font-size: 0.9em;
+    line-height: 20px;
+}
+
+.footer-copyright {
+    border-top: 0.5px solid rgba(0, 0, 0, 0.2);
+    font-size: 0.9em;
+    width: 100%;
+}
+
+
     
-    .container-align h2{
+.container-align h2{
     position: relative;
     text-align: center;
     font-size: 1.5rem;
     width: inherit;
     
-    
 }
     .we-are h2 {
         width: 18rem; 
     }
-}
 
 @media screen and (max-width: 575px) {
     
