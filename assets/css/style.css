@@ -93,7 +93,6 @@ video {
 }
 
 .carousel p{
-    /* font-size: 1em; */
     text-align: justify;
 }
 
@@ -172,7 +171,7 @@ video {
 /* star rating*/
 
 #progress {
-    background: url('../asset/images/progressbg.png') center/cover no-repeat;
+    background: url('https://via.placeholder.com/150') center/cover no-repeat;
 }
 
 .overlay-progress {

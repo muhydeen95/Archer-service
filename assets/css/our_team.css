@@ -99,26 +99,9 @@ footer {
   font-size: 0.9em;
 }
 
-/* Jumbotron section */
-#jumbotron {
-  margin: 6rem auto;
-}
-.jumbotron {
+/* Hire us */
+.Hire-us {
+  background: var(--primary-color);
   color: #ffffff;
-  height: 350px;
-  background-color: var(--primary-color);
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-}
-
-.btn-fill {
-  background-color: var(--secondary-color);
-  color: #ffffff;
-}
-
-.btn-fill:hover {
-  color: #ffffff;
-  background-color: rgba(90, 205, 50, 0.6);
+  border-radius: 16px;
 }

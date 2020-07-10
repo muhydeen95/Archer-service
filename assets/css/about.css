@@ -156,13 +156,11 @@ nav {
 }
 
 /**********Work With Us**********/
-.work-w-us {
+.Hire-us {
     background: var(--primary-color);
-    position: relative;
     color: #ffffff;
     border-radius: 16px;
-    height: 344px;
-}
+  }
 
 .btn-success {
     background-color: var(--secondary-color);
