@@ -1,5 +1,6 @@
 :root{
     --main-color: #514663;
+    --primary-color: #514663;
     --secondary-color: #5ACD32;
     --other-color: #E5E5E5;
     --white-color: #fff;
@@ -12,6 +13,22 @@
 
 body{
     font-family: 'Cotham Sans';
+}
+
+
+#services .card {
+    border: none;
+}
+
+#services .card-body {
+    background: var(--primary-color);
+    width: 75%;
+    margin-top: -40px;
+}
+
+#services .card-text {
+    color: var(--white-color);
+    text-align: left;
 }
 
 
@@ -181,10 +198,6 @@ nav {
 /* .card {
     border: none;
 } */
-
-.card-body {
-    
-}
 
 
 .carousel p{

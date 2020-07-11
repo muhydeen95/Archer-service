@@ -89,7 +89,7 @@ video {
 }
 
 .card-text {
-    color: #ffffff;
+    color: var(--white-color);
 }
 
 .carousel p{
